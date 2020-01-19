@@ -1,0 +1,1 @@
+# ShareMX-serverless-azure
